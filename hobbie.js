@@ -5,11 +5,6 @@
 function hobbies(hobbie1,hobbie2,hobbie3){
     return[hobbie1,hobbie2,hobbie3]
     
-    
-        
-    
-
 }
 
 export{hobbies}
-console.log(hobbies("calcio","pallavolo","basket"))
