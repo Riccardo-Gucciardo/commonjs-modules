@@ -18,5 +18,4 @@ function Name(firstName,lastName){
         lastName,
     }
 }
-export{Name}
-console.log(Name('riccardo','gucciardo'));
+export default Name;
